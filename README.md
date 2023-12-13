@@ -44,7 +44,7 @@ Certainly! The historical trip data for this analysis is sourced from Cyclistic,
 In the dataset, each record represents a ride made by either a casual or a member customer of Cyclistic. The data is organized across 12 CSV files, each corresponding to a specific month. Each file contains 13 columns, namely ride_id, rideable_type, started_at, ended_at, start_station_name, start_station_id, end_station_name, end_station_id, start_lat, start_lng, end_lat, end_lng, and member_casual. The dataset does not include specific individual details such as gender, age, address, payment information, or other personal details, maintaining a focus on ride-related information for enhanced privacy and compliance with data protection standards. further steps done for data exploration and preperation are as follows:
 
 - After extracting and unzipping the data, I uploaded it into a Microsoft Excel sheet for initial exploration. 
-- During this process, I checked for duplicate entries, spelling errors, and issues related to letter casing but found none. Utilizing the filter option, I identified null values in specific columns such as start_station_name, start_station_id, end_station_name, end_station_id, start_lat, start_lng, end_lat, and end_lng. 
+- During this process, I checked for duplicate entries, spelling errors, and issues related to letter casing but found none. Utilizing the filter option, I identified null values in specific columns such as start_station_name, start_station_id, end_station_name, end_station_id, end_lat, and end_lng. 
 - In instances where start_station_name was blank, the corresponding start_station_id was also blank. 
 - Some rows exhibited complete absence of information in start_station_name, start_station_id, end_station_name, and end_station_id. However, no null values were present in the started_at and ended_at columns.
 - Further filtering ensured that only three types of bikes (electric bike, classic bike, and docked bike) and two rider types (casual and member) were recorded. 
@@ -54,7 +54,26 @@ In the dataset, each record represents a ride made by either a casual or a membe
 ---
 1. Data aggregation
 
-A SQL query was employed to aggregate information from 12 distinct CSV tables each representing different months, was aggregated into a single table and ordered to sort started_at by ascending order and the table was named as united_data_table. [click here](https://github.com/Latikashree/Latikashree.github.io/blob/main/query%20for%20uniting%20tables.sql) to view the sql query used for this process. By uniting the tables, trends and patterns in the entire dataset can be easily identified, providing a solid foundation for subsequent cleaning and analytical tasks.
+A SQL query was employed to aggregate information from 12 distinct CSV tables each representing different months, was aggregated into a single table and ordered to sort started_at by ascending order and the table was named as united_data_table. [click here](https://github.com/Latikashree/Latikashree.github.io/blob/main/query%20for%20uniting%20tables.sql) to view the sql query used for this process. 62,11,510 is the total number of entries present in the united_data_table. By uniting the tables, trends and patterns in the entire dataset can be easily identified, providing a solid foundation for subsequent cleaning and analytical tasks.
+
+2. Null values and Count
+
+   In this step, a comprehensive analysis of null values was conducted to ensure data completeness. [click here]() to view the SQL query that was crafted to find the total count of entries and identify the number of null values in each relevant column. The results revealed specific areas that required attention:
+
+| Column names | Null values |
+| ------------ | ----------- |
+| start_station_name | 9,57,599 |
+| start_station_id | 9,,57,731 |
+| end_station_name | 10,15,409 |
+| end_station_id | 10,15,550 |
+| end_lat | 7,230 |
+| end_lng | 7,230 |
+| Total number of null values | 39,60,749 |
+
+3. Data cleaning
+
+
+   
 
    
 
