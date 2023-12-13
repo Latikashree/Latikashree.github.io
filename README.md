@@ -39,6 +39,15 @@ The objective assigned by Marketing Director Lily Moreno is to understand how ca
 
 ### PREPARE
 ---
+Certainly! The historical trip data for this analysis is sourced from Cyclistic, a fictional bike-share company, and is publicly available from [Divvy_trip_data](https://divvy-tripdata.s3.amazonaws.com/index.html), made accessible by Motivate International Inc. under a specific [License](https://divvybikes.com/data-license-agreement). The datasets are suitable for addressing the business questions at hand. The chosen data spans one year, from October 2022 to October 2023. Importantly, the dataset respects privacy, as it prohibits the use of personally identifiable information, preventing the linkage of pass purchases to credit card numbers. This restriction ensures compliance with data privacy regulations. Furthermore, there are no credibility or bias issues, and considerations related to licensing, privacy, security, and accessibility have been diligently addressed. The data adheres to the ROCCC criteria, ensuring it is Reliable, Original, Comprehensive, Current, and Cited.
+
+In the dataset, each record represents a ride made by either a casual or a member customer of Cyclistic. The data is organized across 12 CSV files, each corresponding to a specific month. Each file contains 13 columns, namely ride_id, rideable_type, started_at, ended_at, start_station_name, start_station_id, end_station_name, end_station_id, start_lat, start_lng, end_lat, end_lng, and member_casual. The dataset does not include specific individual details such as gender, age, address, payment information, or other personal details, maintaining a focus on ride-related information for enhanced privacy and compliance with data protection standards.
+
+After extracting and unzipping the data, I uploaded it into a Microsoft Excel sheet for initial exploration. During this process, I checked for duplicate entries, spelling errors, and issues related to letter casing but found none. Utilizing the filter option, I identified null values in specific columns such as start_station_name, start_station_id, end_station_name, end_station_id, start_lat, start_lng, end_lat, and end_lng. In instances where start_station_name was blank, the corresponding start_station_id was also blank. Some rows exhibited complete absence of information in start_station_name, start_station_id, end_station_name, and end_station_id. However, no null values were present in the started_at and ended_at columns. Further filtering ensured that only three types of bikes (electric bike, classic bike, and docked bike) and two rider types (casual and member) were recorded. Due to the dataset's large size, I split the worksheet in Excel and proceeded to upload it into BigQuery SQL for further analysis.
+
+### PROCESS 
+---
+
 
 
 
