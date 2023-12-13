@@ -37,6 +37,9 @@ The objective assigned by Marketing Director Lily Moreno is to understand how ca
 - At what times do riders prefer to use Cyclistic bikes, considering various time metrics?
 - How does the duration of trips compare between annual members and casual users?
 
+### PREPARE
+---
+
 
 
 
