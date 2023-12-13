@@ -72,7 +72,7 @@ A SQL query was employed to aggregate information from 12 distinct CSV tables ea
 
 3. Data cleaning and Transformation
    
-[click here]() to view the sql code that was generated for cleaning the data.
+[click here](https://github.com/Latikashree/Latikashree.github.io/blob/main/data%20cleaning%20query.sql) to view the sql code that was generated for cleaning the data.
 - In this process, a new table named "cleaned_data" was crafted using a SQL query.
 - The initial steps involved the extraction of 'start_time' and 'start_date' from the 'started_at' column, along with 'end_date' and 'end_time' from 'ended_at.'
 - Subsequently, the day of the week for both 'start_date' and 'end_date' was determined, followed by the assignment of month names based on their numeric representations.
