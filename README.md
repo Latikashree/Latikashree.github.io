@@ -54,6 +54,8 @@ In the dataset, each record represents a ride made by either a casual or a membe
 ---
 1. Data aggregation
 
+A SQL query was employed to aggregate information from 12 distinct CSV tables each representing different months, was aggregated into a single table named united_data_table. [click here](https://github.com/Latikashree/Latikashree.github.io/blob/main/query%20for%20uniting%20tables.sql.) to view the sql query used for this process. By uniting the tables, trends and patterns in the entire dataset can be easily identified, providing a solid foundation for subsequent cleaning and analytical tasks.
+
    
 
 
