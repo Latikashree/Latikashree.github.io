@@ -71,6 +71,7 @@ A SQL query was employed to aggregate information from 12 distinct CSV tables ea
 | Total number of null values | 39,60,749 |
 
 3. Data cleaning
+   
 
 
    
