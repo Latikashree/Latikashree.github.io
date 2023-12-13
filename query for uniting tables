@@ -1,4 +1,4 @@
-``` sql
+```sql
 -- To create a new table by combining data from all different tables into one
 CREATE TABLE cyclisticbikeshare.united_data_table
 AS
