@@ -1,4 +1,4 @@
-```sql
+
 -- To create a new table by combining data from all different tables into one
 CREATE TABLE cyclisticbikeshare.united_data_table
 AS
@@ -57,4 +57,4 @@ SELECT *
 FROM `pelagic-talent-402107.cyclisticbikeshare.202310_data`
 -- ordered the combined table to arrange started_at in ascending order
 ORDER BY started_at ASC;
-```
+
