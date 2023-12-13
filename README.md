@@ -1,4 +1,4 @@
-### Cyclistic Bike Share Analysis
+# Cyclistic Bike Share Analysis
 
 ### Project Overview
 ---
@@ -23,6 +23,21 @@ Until now, Cyclistic’s marketing strategy relied on building general awareness
 
 Cyclistic’s finance analysts have concluded that annual members are much more profitable than casual riders. Rather than creating a marketing campaign that targets all-new customers, Moreno believes there is a very good chance to convert casual riders into members. In order to do that, however, the marketing analyst team needs to better understand how annual members and casual riders differ, why casual riders would buy a membership, and how digital media could affect their marketing tactics. Moreno and her team are interested in
 analyzing the Cyclistic historical bike trip data to identify trends.
+
+### ASK
+---
+In the Ask phase of the Cyclistic bike-share analysis, the focus is on addressing key questions to guide the future marketing program. Cyclistic's finance analysts have already concluded that annual memberships yield higher profitability than single-ride and day-passes, also the marketing director Lily Moreno's vision is to convert casual riders into annual members for sustainable company growth.
+
+#### TASK 
+The objective assigned by Marketing Director Lily Moreno is to understand how casual users and annual members utilize Cyclistic bikes differently. Key questions guiding this data analysis include:
+- What are the preferred bicycle types for annual members and casual users?
+- How do starting and ending stations differ between annual members and casual users?
+- Which stations are the most frequented by all riders?
+- What are the commonly used routes for annual members and casual users?
+- At what times do riders prefer to use Cyclistic bikes, considering various time metrics?
+- How does the duration of trips compare between annual members and casual users?
+
+
 
 
 
