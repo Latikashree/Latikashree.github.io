@@ -48,11 +48,13 @@ In the dataset, each record represents a ride made by either a casual or a membe
 - In instances where start_station_name was blank, the corresponding start_station_id was also blank. 
 - Some rows exhibited complete absence of information in start_station_name, start_station_id, end_station_name, and end_station_id. However, no null values were present in the started_at and ended_at columns.
 - Further filtering ensured that only three types of bikes (electric bike, classic bike, and docked bike) and two rider types (casual and member) were recorded. 
-- Due to the dataset's large size, I split the worksheet in Excel and proceeded to upload it into BigQuery SQL for further analysis.
+- Due to the dataset's large size, I split the worksheet in Microsft Excel Sheets and proceeded to upload it into [BigQuery SQL](https://cloud.google.com/bigquery?utm_source=google&utm_medium=cpc&utm_campaign=na-none-all-en-dr-sitelink-all-all-trial-e-gcp-1605212&utm_content=text-ad-none-any-DEV_c-CRE_665665924750-ADGP_Hybrid+%7C+BKWS+-+MIX+%7C+Txt_BigQuery-KWID_43700077225652815-kwd-47616965283-userloc_9067609&utm_term=KW_bigquery-ST_bigquery-NET_g-&gclid=EAIaIQobChMIisiHto7JgQMVwfnICh2UmAfuEAAYASABEgJbSPD_BwE&gclsrc=aw.ds) for further analysis.
 
 ### PROCESS 
 ---
+1. Data aggregation
 
+   
 
 
 
