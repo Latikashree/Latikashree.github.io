@@ -70,7 +70,16 @@ A SQL query was employed to aggregate information from 12 distinct CSV tables ea
 | end_lng | 7,230 |
 | Total number of null values | 39,60,749 |
 
-3. Data cleaning
+3. Data cleaning and Transformation
+   
+[click here]() to view the sql code that was generated for cleaning the data.
+- In this process, a new table named "cleaned_data" was crafted using a SQL query.
+- The initial steps involved the extraction of 'start_time' and 'start_date' from the 'started_at' column, along with 'end_date' and 'end_time' from 'ended_at.'
+- Subsequently, the day of the week for both 'start_date' and 'end_date' was determined, followed by the assignment of month names based on their numeric representations.
+- In the WHERE condition of the query, specific conditions were set to improve data quality such as Entries with ride lengths less than 1 minute or exceeding 1,440 minutes were excluded. Additionally, efforts were made to eliminate entries where 'ended_at' occurred chronologically before 'started_at.' Further refinement involved the removal of rows containing null values in critical geospatial columns, namely 'start_lat,' 'start_lng,' 'end_lat,' and 'end_lng.' 
+  
+
+   
    
 
 
