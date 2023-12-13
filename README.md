@@ -58,7 +58,7 @@ A SQL query was employed to aggregate information from 12 distinct CSV tables ea
 
 2. Null values and Count
 
-   In this step, a comprehensive analysis of null values was conducted to ensure data completeness. [click here]() to view the SQL query that was crafted to find the total count of entries and identify the number of null values in each relevant column. The results revealed specific areas that required attention:
+   In this step, a comprehensive analysis of null values was conducted to ensure data completeness. [click here](https://github.com/Latikashree/Latikashree.github.io/blob/main/code%20for%20null%20values%20and%20its%20count.sql) to view the SQL query that was crafted to find the total count of entries and identify the number of null values in each relevant column. The results revealed specific areas that required attention:
 
 | Column names | Null values |
 | ------------ | ----------- |
