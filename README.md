@@ -24,6 +24,8 @@ Until now, Cyclistic’s marketing strategy relied on building general awareness
 Cyclistic’s finance analysts have concluded that annual members are much more profitable than casual riders. Rather than creating a marketing campaign that targets all-new customers, Moreno believes there is a very good chance to convert casual riders into members. In order to do that, however, the marketing analyst team needs to better understand how annual members and casual riders differ, why casual riders would buy a membership, and how digital media could affect their marketing tactics. Moreno and her team are interested in
 analyzing the Cyclistic historical bike trip data to identify trends.
 
+[sql query](https://github.com/Latikashree/Latikashree.github.io/blob/main/query%20for%20uniting%20tables)
+
 
 
 
