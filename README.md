@@ -81,7 +81,18 @@ A SQL query was employed to aggregate information from 12 distinct CSV tables ea
 
 ### ANALYZE 
 ---
-  
+
+  In the analysis phase, using SQL query the key insights of bike-share usage pattern was extracted from cleaned_data table.  to view the SQL analysis [click here](). further detailed and visual analysis was done using Tableau visualizations. the visualisations created in tableau are provided in SHARE section, [click here]() to view those. the key insights obtained from the data analysis are:
+
+  1) The total number of rides taken by Annual members are 29,76,261 (64.15%) rides , while casual riders accounted for 16,62,927 (35.85%) rides. which shows that annual members are taking more rides than casual.
+
+  2) The most used bike type by both annual member and casual member are classic_bike and the next type is electric_bike that is used. But the least is docked_bike that is only used by casual members and annual members has not used docked_bike. 
+
+  3) The ride duration or length by casual riders are longer than annual members.
+
+  4) The most used stations by both annual members and  casual members are more concentrated in city center and it is spread in little towards north and south of chicago.
+
+  5) Most of the rides taken by Annual member are during the weekdays and Casual members take most rides during weekends. And the most rides are taken are in the summer months and in october. And the peak hours in a day are from 7am to 8pm.     
 
    
    
