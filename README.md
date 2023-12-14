@@ -99,9 +99,19 @@ A SQL query was employed to aggregate information from 12 distinct CSV tables ea
 
 #### Count OF Total rides
 
-The analysis revealed how annual members and casual riders used the bike-sharing service differently. Annual members took a total of 29,76,261 rides, while casual riders had 16,62,927 rides. To view the visualization on Tableau Public [click here]()
+The analysis revealed how annual members and casual riders used the bike-sharing service differently. Annual members took a total of 29,76,261 rides, while casual riders had 16,62,927 rides. 
 
-![count of total rides]()
+To view the visualization on Tableau Public [click here](https://public.tableau.com/views/Book1_17002325634680/Sheet2?:language=en-GB&:display_count=n&:origin=viz_share_link)
+
+![count of total rides](https://github.com/Latikashree/Latikashree.github.io/blob/main/Sheet%202.png)
+
+#### Most Used Bike Type
+
+The analysis reveals which bike types are most used by members and casual riders. It provides the bike use pattern.
+
+To view this visualization on Tableau Public [click here]()
+
+![Most used Bike Type]()
 
    
    
