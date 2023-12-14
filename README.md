@@ -229,7 +229,16 @@ To view visualization on Tableau Public [click here](https://public.tableau.com/
 ### ACT or RECOMMENDATIONS
 ---
 
+- Recognizing that casual riders tend to have longer rides, explore pricing plans or incentives that match their preferences, encouraging them to take more rides. Additionally, focus on engaging and retaining annual members by designing targeted promotional campaigns or loyalty programs. Use customer contact information to reach out to registered bike users who haven't purchased an annual membership, tailoring promotions to encourage them to switch for long-term benefits.
 
+- Considering that classic bikes and electric bikes are the most popular, it's recommended to keep focusing on these types. We should think about adjusting the number of docked bikes based on what people are using more. If docked bikes aren't as popular, We might want to replace some of them with more classic or electric bikes.
+
+- By ensuring bikes are readily available during peak hours from 7 am to 8 pm, and by considering to implement offer promotions or discount can boost ridership during less busy times. We can adjust market and operations to match the trend of annual members riding on weekdays and casual members on weekends, with special events or adjusted hours. Planing for increased bike availability, marketing efforts, and support during peak periods, especially in summer and October. Aligning promotions with seasonal rider preferences and explore incentives for off-peak hours.
+
+- Focus on adding more bike stations in the city center and busy areas where many people use bikes. This will make it easier for users to find bikes, making their experience better and increase in number of people usage.
+
+-  Ask casual riders about what they want, need, and expect from the bike service. Create special offers based on their preferences and categorize casual riders (like tourists, employees, students) for personalized deals.
+-  Use emails and social media ads to connect with users who haven't bought annual memberships, giving them special deals. Get attention through in-app promotions and a referral program to encourage them to get annual memberships. Improve Google Ads and focused ads in busy bike areas. Gather feedback through surveys to make things better and have a complete plan to get, keep, and make users happy and satisfied.
 
 
 
