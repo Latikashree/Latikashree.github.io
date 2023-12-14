@@ -103,18 +103,142 @@ The analysis revealed how annual members and casual riders used the bike-sharing
 
 To view the visualization on Tableau Public [click here](https://public.tableau.com/views/Book1_17002325634680/Sheet2?:language=en-GB&:display_count=n&:origin=viz_share_link)
 
-![count of total rides](https://github.com/Latikashree/Latikashree.github.io/blob/main/Sheet%202.png)
+![Sheet 2](https://github.com/Latikashree/Latikashree.github.io/assets/153077606/7c69cc04-eb1a-4df5-bef4-09bc211626c9)
+
+
+----
 
 #### Most Used Bike Type
 
 The analysis reveals which bike types are most used by members and casual riders. It provides the bike use pattern.
 
-To view this visualization on Tableau Public [click here]()
+To view this visualization on Tableau Public [click here](https://public.tableau.com/views/Book1_17002325634680/Sheet1?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link)
 
-![Most used Bike Type]()
+![Sheet 1](https://github.com/Latikashree/Latikashree.github.io/assets/153077606/d27c78bd-1c32-4760-a178-96faaac0aa11)
+
+
+----
+
+#### Ride Length by Member Type
+
+To view the visualization on Tableau Public [click here](https://public.tableau.com/views/Book1_17002325634680/Sheet7?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link)
+
+   ![Ride length by member type visualization](https://github.com/Latikashree/Latikashree.github.io/assets/153077606/be3e72d9-3a19-40aa-ba36-fd356a033cc2)
 
    
+----
+
+#### Ride Length by Bike Type
+
+To view the visualization on Tableau Public [click here](https://public.tableau.com/views/Book1_17002325634680/Sheet8?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link)
+
+   ![Sheet 8](https://github.com/Latikashree/Latikashree.github.io/assets/153077606/adea9d8e-1c58-4f20-96c1-1a85555b99fe)
+
    
+----
+
+#### Ride Distribution by Day of Week Started 
+
+To view the visualization on Tableau Public [click here](https://public.tableau.com/views/Book1_17002325634680/Sheet3?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link)
+   
+![Sheet 3](https://github.com/Latikashree/Latikashree.github.io/assets/153077606/f1e18aa6-cfe6-42a9-8731-46910e4b028f)
+
+
+----
+#### Ride Distribution by Day of Week Ended
+
+To view the visualization on Tableau Public [click here](https://public.tableau.com/views/Book1_17002325634680/Sheet4?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link)
+
+![Sheet 4](https://github.com/Latikashree/Latikashree.github.io/assets/153077606/d72a4711-9b05-4b89-bddc-90afae781fcc)
+
+
+----
+
+#### Monthly Ride Counts by Member Type
+
+To view the visualization on Tableau Public [click here](https://public.tableau.com/views/Book2_17006739285430/Sheet1?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link)
+
+![Sheet 1 (1)](https://github.com/Latikashree/Latikashree.github.io/assets/153077606/9e822260-da2b-41a0-97ef-849883601ca1)
+
+
+----
+
+#### Hourly Start Ride Trends by Member Type
+
+To view visualization on Tableau Public [click here](https://public.tableau.com/views/Book2_17006739285430/Sheet5?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link)
+
+![Sheet 5 (1)](https://github.com/Latikashree/Latikashree.github.io/assets/153077606/6c26ed04-ba07-496d-9ece-a82f2d7e843e)
+
+
+----
+
+#### Hourly End Ride Trends by Member Type
+
+To view visualization on Tableau Public [click here](https://public.tableau.com/views/Book2_17006739285430/Sheet6?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link)
+
+![Sheet 6 (1)](https://github.com/Latikashree/Latikashree.github.io/assets/153077606/f4beb5bd-8144-486c-bc43-3746247de3cd)
+
+
+----
+
+#### Start Location Ride Density Map by Member Type
+
+To view visualization on Tableau Public [click here](https://public.tableau.com/views/Book2_17006739285430/Sheet3?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link)
+
+![Sheet 3 (1)](https://github.com/Latikashree/Latikashree.github.io/assets/153077606/c9d1ea04-733e-4373-b607-a33212820362)
+
+
+----
+
+#### End Location Ride Density Map by Member Type
+
+To view visualization on Tableau Public [click here](https://public.tableau.com/views/Book2_17006739285430/Sheet4?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link)
+
+![Sheet 4 (1)](https://github.com/Latikashree/Latikashree.github.io/assets/153077606/3e2a1561-7cd8-4fa7-8058-50a32df6898e)
+
+
+----
+
+#### Most Used Start Station Names by Member Type
+
+To view visualization on Tableau Public [click here](https://public.tableau.com/views/Book1_17002325634680/Sheet5?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link)
+
+![Sheet 5](https://github.com/Latikashree/Latikashree.github.io/assets/153077606/11250f06-370c-4f7a-8735-d66a4b1a44b7)
+
+
+----
+
+#### Most Used End Station Names by Member Types
+
+To view visualization on Tableau Public [click here](https://public.tableau.com/views/Book1_17002325634680/Sheet6?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link)
+
+![Sheet 6](https://github.com/Latikashree/Latikashree.github.io/assets/153077606/e6316deb-b90e-4a57-8b10-776835ce73e1)
+
+
+----
+
+#### Most Used Routes
+
+To view visualization on Tableau Public [click here](https://public.tableau.com/views/Book1_17002325634680/Sheet9?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link)
+
+![Sheet 9](https://github.com/Latikashree/Latikashree.github.io/assets/153077606/281ab48f-cce4-4fb6-a4fa-cb05e54c474b)
+
+
+----
+
+### ACT or RECOMMENDATIONS
+---
+
+
+
+
+
+
+
+
+
+
+
 
 
    
