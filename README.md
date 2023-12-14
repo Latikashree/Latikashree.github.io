@@ -12,6 +12,14 @@ Each step of this process was aimed at analyzing trends within Cyclistic's histo
 ### Table Of Content:
 ---
 
+- [About The Company](#about-the-company)
+- [ASK](#ask)
+- [PREPARE](#prepare)
+- [PROCESS](#process)
+- [ANALYZE](#analyze)
+- [SHARE](#share)
+- [ACT or RECOMMENDATIONS](#act-or-recommendations)
+
 ### About The Company
 ---
 
