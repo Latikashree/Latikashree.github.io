@@ -82,7 +82,7 @@ A SQL query was employed to aggregate information from 12 distinct CSV tables ea
 ### ANALYZE 
 ---
 
-  In the analysis phase, using SQL query the key insights of bike-share usage pattern was extracted from cleaned_data table.  to view the SQL analysis [click here](). further detailed and visual analysis was done using Tableau visualizations. the visualisations created in tableau are provided in SHARE section, [click here]() to view those. the key insights obtained from the data analysis are:
+  In the analysis phase, using SQL query the key insights of bike-share usage pattern was extracted from cleaned_data table.  to view the SQL analysis [click here](https://github.com/Latikashree/Latikashree.github.io/blob/main/data%20analyze%20query.sql). further detailed and visual analysis was done using Tableau visualizations. the visualisations created in tableau are provided in SHARE section, [click here]() to view those. the key insights obtained from the data analysis are:
 
   1) The total number of rides taken by Annual members are 29,76,261 (64.15%) rides , while casual riders accounted for 16,62,927 (35.85%) rides. which shows that annual members are taking more rides than casual.
 
