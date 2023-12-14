@@ -73,10 +73,14 @@ A SQL query was employed to aggregate information from 12 distinct CSV tables ea
 3. Data cleaning and Transformation
    
 [click here](https://github.com/Latikashree/Latikashree.github.io/blob/main/data%20cleaning%20query.sql) to view the sql code that was generated for cleaning the data.
-- In this process, a new table named "cleaned_data" was crafted using a SQL query.
+- In this process, a new table named 'cleaned_data' was crafted using a SQL query. The 'united_data_table,' which initially combined data from various sources, underwent thorough cleaning, and additional information was extracted and organized into the 'cleaned_data' table. 
 - The initial steps involved the extraction of 'start_time' and 'start_date' from the 'started_at' column, along with 'end_date' and 'end_time' from 'ended_at.'
 - Subsequently, the day of the week for both 'start_date' and 'end_date' was determined, followed by the assignment of month names based on their numeric representations.
-- In the WHERE condition of the query, specific conditions were set to improve data quality such as Entries with ride lengths less than 1 minute or exceeding 1,440 minutes were excluded. Additionally, efforts were made to eliminate entries where 'ended_at' occurred chronologically before 'started_at.' Further refinement involved the removal of rows containing null values in critical geospatial columns, namely 'start_lat,' 'start_lng,' 'end_lat,' and 'end_lng.' 
+- Also the duration of each ride was calculated in minutes.
+- In the WHERE condition of the query, specific conditions were set to improve data quality such as Entries with ride lengths less than 1 minute or exceeding 1,440 minutes were excluded. Additionally, efforts were made to eliminate entries where 'ended_at' occurred chronologically before 'started_at.' Further refinement involved the removal of rows containing null values in latitude and longitude columns, namely 'start_lat,' 'start_lng,' 'end_lat,' and 'end_lng.'
+
+### ANALYZE 
+---
   
 
    
