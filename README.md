@@ -92,7 +92,10 @@ A SQL query was employed to aggregate information from 12 distinct CSV tables ea
 
   4) The most used stations by both annual members and  casual members are more concentrated in city center and it is spread in little towards north and south of chicago.
 
-  5) Most of the rides taken by Annual member are during the weekdays and Casual members take most rides during weekends. And the most rides are taken are in the summer months and in october. And the peak hours in a day are from 7am to 8pm.     
+  5) Most of the rides taken by Annual member are during the weekdays and Casual members take most rides during weekends. And the most rides are taken are in the summer months and in october. And the peak hours in a day are from 7am to 8pm.
+
+### SHARE
+---
 
    
    
